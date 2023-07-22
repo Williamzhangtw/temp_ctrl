@@ -37,7 +37,7 @@ Based on the requirements, here's an example of a feature set meet the user's ne
 - 1 refrigerator
 - 1 3.3v magnate 220V 10A switch
 - 1 bluepill
-- 1 Infinite encoder
+- 1 rotary encoder
 - 1 uart to usb converter
 - 1 ds18b20 temperature sensor
 
